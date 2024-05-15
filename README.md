@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently studing on Ho Chi Minh city University of Technology.
+- 🌱 I’m seeking for an internship in Software Developer Jobs.
+- 📫 How to reach me: haiche198@gmail.com
 <!--
 **Hai-Che/Hai-Che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
