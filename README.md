@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studing on Ho Chi Minh city University of Technology.
+- 🔭 I’m currently studing on Ho Chi Minh city University of Technology. (HCMUT-VNU)
 - 🌱 I’m seeking for an internship in Software Developer Jobs.
 - 📫 How to reach me: haichelan@gmail.com
 <!--
