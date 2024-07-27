@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hải</h1>
+<img align="right" alt="Coding" width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlwMDJob285Yms2N29jZ2QydHM5bmVqcWlpbnJ4a3V3MW0wMXVpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.webp">
+
 - 🔭 I’m currently studing on Ho Chi Minh city University of Technology. (HCMUT-VNU)
 - 🌱 I’m seeking for an internship in Software Developer Jobs.
 - 📫 How to reach me: haichelan@gmail.com
