@@ -1,6 +1,6 @@
 <p align="center"><img width="100%" alt="Loading" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" /></a></p>
 <h1 align="center">Hi 👋, I'm Hải</h1>
-<img align="right" alt="Coding" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlwMDJob285Yms2N29jZ2QydHM5bmVqcWlpbnJ4a3V3MW0wMXVpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.webp">
+<img align="right" alt="Coding" width="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlwMDJob285Yms2N29jZ2QydHM5bmVqcWlpbnJ4a3V3MW0wMXVpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.webp">
 
 - 🔭 I’m currently studing on Ho Chi Minh city University of Technology. (HCMUT-VNU)
 - 🌱 I’m seeking for an internship in Software Developer Jobs.
