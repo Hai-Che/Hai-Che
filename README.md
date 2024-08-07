@@ -4,7 +4,7 @@
 
 - 👀 My name is Chế Lan Hải.
 - 🎂 My Birthday is 19/08/2002.
-- 🔭 I’m currently studing on Ho Chi Minh city University of Technology. (HCMUT-VNU)
+- 🔭 I’m currently studying on Ho Chi Minh city University of Technology. (HCMUT-VNU)
 - 🌱 I’m seeking for an internship in Software Developer Jobs.
 - 📫 How to reach me: haichelan@gmail.com
 
