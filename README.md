@@ -1,6 +1,7 @@
 <p align="center"><img width="100%" alt="Loading" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" /></a></p>
 <h1 align="center">Hi 👋, I'm Hải</h1>
 <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlwMDJob285Yms2N29jZ2QydHM5bmVqcWlpbnJ4a3V3MW0wMXVpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gx54W1mSpeYMg/giphy.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hai-Che&label=Profile%20views&color=0e75b6&style=flat" alt="Hai-Che" /> </p>
 
 - 👀 My name is Chế Lan Hải.
 - 🎂 My Birthday is 19/08/2002.
