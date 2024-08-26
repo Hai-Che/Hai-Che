@@ -214,6 +214,21 @@
     />
   </a>
 </p>
+<br>
+
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+
+<h3> 🔥 Streak Stats</h3>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hai-Che&theme=tokyonight_duo" alt="Hai-Che" /></p>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Hai's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hai-Che&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Hai-Che&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="Hai-Che" height="230px"/>
+<br>
 <h3>⚡ Recent GitHub Activity</h3>
 	
 [![Hai Che github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hai-Che&theme=tokyo-night&area=true)](https://github.com/Hai-Che/github-readme-activity-graph)
