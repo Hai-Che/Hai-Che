@@ -234,7 +234,7 @@
 	
 [![Hai Che github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hai-Che&theme=tokyo-night&area=true)](https://github.com/Hai-Che/github-readme-activity-graph)
 
-<h3>💻 LeetCode Stats</h3>
+<h2 align="center">🔥 LeetCode Stats 🔥</h2>
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/HaiChe" alt="LeetCode Stats"/>
 </div>
