@@ -233,6 +233,11 @@
 <h3>⚡ Recent GitHub Activity</h3>
 	
 [![Hai Che github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hai-Che&theme=tokyo-night&area=true)](https://github.com/Hai-Che/github-readme-activity-graph)
+
+<h3>💻 LeetCode Stats</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/HaiChe" alt="LeetCode Stats"/>
+</div>
 <!--
 **Hai-Che/Hai-Che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
